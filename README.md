@@ -12,6 +12,8 @@
 * ModelMapper
 * Docker 
 * Postgresql
+* Mockito
+* Junit5
 
 
 ## Instruções para o Deploy da Aplicação : 
